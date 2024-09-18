@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(251, 208, 34);
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+table{
+    margin: 0 auto;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+td{
+    padding: 20px 100px;
+}
+a{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    width: 500px;
+    text-align: center;
+}
+
+.apple{
+    width: 300px;
+    margin-left: -50px;
+}
+.gg{
+    width: 320px;
+    height: 150px;
+    margin-left: -50px;
+    margin-top: 50px;
+}
