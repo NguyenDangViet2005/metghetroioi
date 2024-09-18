@@ -1,0 +1,48 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+.line-bottom{
+    width: 60px;
+    height: 5px;
+    background-image:linear-gradient(to right , rgb(101, 180, 233), blue) ;
+    border-radius: 5px ;
+    margin: 0 auto;
+    margin-top: -15px;
+}
+table{
+    min-width: 800px;
+    height: 300px;
+    margin: 50px auto  ;
+}
+
+.img{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: rgb(160, 209, 160);
+    font-size: 50px;
+    color: white;
+    margin-top: -50px;
+}
+.desc{
+    width: 250px;
+    height: 150px;
+}
+.desc p{
+    color: #756c6c;
+}
+td{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+tr{
+    display: flex;
+}
+.name{
+    font-weight: 700;
+}
